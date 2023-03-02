@@ -1,25 +1,33 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("Hello world!");
-        System.out.println("Добро пожаловать в нашу кофейню!");
-        Scanner sc = new Scanner(System.in);
+        System.out.println("Coffee Shop");
+        // Какое кофе будем продавать:
+        // ESPRESSO - 2.30 euro | 3 euro
+        // AMERICANO - 2.10 euro| 2 euro
+        // CAPUCCINO - 3.50     | 4 euro
+        // LATTE - 4.20         | 5 euro
+//_______________________________________________
         enum CoffeeType {
-            AMERICANO,
             ESPRESSO,
+            AMERICANO,
             CAPUCCINO,
             LATTE,
         }
 
-
-        for (CoffeeType myCoffee : CoffeeType.values()) {
+        for (CoffeeType myCoffee: CoffeeType.values()) {
             System.out.println(myCoffee);
         }
-        System.out.println("Для выбора нажните 1,2, 3 или 4");
+        System.out.println("Выберите свой кофе. Нажмите 1, 2, 3 или 4");
+        Scanner sc = new Scanner(System.in);
         int choice = sc.nextInt();
-        CoffeeType myCoffee = CoffeeType.ESPRESSO; // инициализация списка, должно быть хотя бы одно значение
+
+        CoffeeType myCoffee = CoffeeType.ESPRESSO;
+
+        int coffeePrice = 0;
+
+        //выбор пользователя
         switch (choice) {
             case 1: {
                 myCoffee = CoffeeType.ESPRESSO;
@@ -38,30 +46,34 @@ public class Main {
                 break;
             }
         }
+        // назначаем цену
+
+
         switch (myCoffee) {
             case AMERICANO -> {
-                System.out.println("Стоимость: " + 3 + " евро");
-                int coffeePrice = 3;
+                coffeePrice = 2;
+                System.out.println("Стоимость " + coffeePrice + " euro");
                 break;
             }
             case ESPRESSO -> {
-                System.out.println("Стоимость: " + 2 + " евро");
-                int coffeePrice = 2;
+                coffeePrice = 3;
+                System.out.println("Стоимость " + coffeePrice + " euro");
                 break;
             }
             case CAPUCCINO -> {
-                System.out.println("Стоимость: " + 4 + " евро");
-                int coffeePrice = 3;
+                coffeePrice = 4;
+                System.out.println("Стоимость " + coffeePrice + " euro");
                 break;
             }
             case LATTE -> {
-                System.out.println("Стоимость: " + 5 + " евро");
-                int coffeePrice = 5;
+                coffeePrice = 5;
+                System.out.println("Стоимость " + coffeePrice + " euro");
                 break;
             }
         }
 
-
+        System.out.println("С вас " + coffeePrice + " euro");
+        System.out.println("Переходите к оплате.");
 
     }
 }
