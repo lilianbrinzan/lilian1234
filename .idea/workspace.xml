@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lektion33/code/task_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion33/code/task_1/task_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion34/code/todolist/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion34/code/todolist/todolist.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/binary_sistem_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion30/code/binary_sistem_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/binary_sistem_1/untitled4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion22/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/binary_sistem_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion30/code/binary_sistem_2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/coffee_mashine/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion32/code/coffee_mashine/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion32/code/example/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion33/code/hausaufgaben33/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion22/test/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion33/code/hausaufgaben33/untitled8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion30/code/binary_sistem_1/binary_sistem_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion34/code/hausaufgaben34/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion34/code/hausaufgaben34/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,11 @@
     "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AIT TR Student\Documents\javakurs2023\Lektion34\code" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677767445419</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson update">
+      <created>1677771780123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677771780123</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
