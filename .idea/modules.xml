@@ -2,17 +2,65 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lektion30/code/binary_sistem_1/binary_sistem_1.iml" filepath="$PROJECT_DIR$/Lektion30/code/binary_sistem_1/binary_sistem_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion30/code/binary_sistem_2/binary_sistem_2.iml" filepath="$PROJECT_DIR$/Lektion30/code/binary_sistem_2/binary_sistem_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion32/code/coffee_mashine/coffee_mashine.iml" filepath="$PROJECT_DIR$/Lektion32/code/coffee_mashine/coffee_mashine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion32/code/example/example.iml" filepath="$PROJECT_DIR$/Lektion32/code/example/example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion32/code/hausaufgaben32/hausaufgaben32.iml" filepath="$PROJECT_DIR$/Lektion32/code/hausaufgaben32/hausaufgaben32.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion34/code/hausaufgaben34/hausaufgaben34.iml" filepath="$PROJECT_DIR$/Lektion34/code/hausaufgaben34/hausaufgaben34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_25/code/alphabet/alphabet.iml" filepath="$PROJECT_DIR$/lektion_25/code/alphabet/alphabet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_19/code/array_x2/array_x2.iml" filepath="$PROJECT_DIR$/lektion_19/code/array_x2/array_x2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_22/code/arraylist_example/arraylist_example.iml" filepath="$PROJECT_DIR$/lektion_22/code/arraylist_example/arraylist_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_22/code/arraylist_sort/arraylist_sort.iml" filepath="$PROJECT_DIR$/lektion_22/code/arraylist_sort/arraylist_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_17/code/arrays/arrays.iml" filepath="$PROJECT_DIR$/lektion_17/code/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_18/code/arrays_practicum/arrays_practicum.iml" filepath="$PROJECT_DIR$/lektion_18/code/arrays_practicum/arrays_practicum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_30/code/binary_sistem_1/binary_sistem_1.iml" filepath="$PROJECT_DIR$/lektion_30/code/binary_sistem_1/binary_sistem_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_30/code/binary_sistem_2/binary_sistem_2.iml" filepath="$PROJECT_DIR$/lektion_30/code/binary_sistem_2/binary_sistem_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_32/code/coffee_mashine/coffee_mashine.iml" filepath="$PROJECT_DIR$/lektion_32/code/coffee_mashine/coffee_mashine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_32/code/example/example.iml" filepath="$PROJECT_DIR$/lektion_32/code/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_20/code/example_20/example_20.iml" filepath="$PROJECT_DIR$/lektion_20/code/example_20/example_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_20/code/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/lektion_20/code/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_31/code/file_io_exemple_1/file_io_exemple_1.iml" filepath="$PROJECT_DIR$/lektion_31/code/file_io_exemple_1/file_io_exemple_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_21/code/finder/finder.iml" filepath="$PROJECT_DIR$/lektion_21/code/finder/finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_29/code/garland/garland.iml" filepath="$PROJECT_DIR$/lektion_29/code/garland/garland.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_16/code/hausaufgaben/hausaufgaben.iml" filepath="$PROJECT_DIR$/lektion_16/code/hausaufgaben/hausaufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_31/code/hausaufgaben31/hausaufgaben31.iml" filepath="$PROJECT_DIR$/lektion_31/code/hausaufgaben31/hausaufgaben31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_32/code/hausaufgaben32/hausaufgaben32.iml" filepath="$PROJECT_DIR$/lektion_32/code/hausaufgaben32/hausaufgaben32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_34/code/hausaufgaben34/hausaufgaben34.iml" filepath="$PROJECT_DIR$/lektion_34/code/hausaufgaben34/hausaufgaben34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_13/hausaufgaben_13.iml" filepath="$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_13/hausaufgaben_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_17/code/hausaufgaben_17/hausaufgaben_17.iml" filepath="$PROJECT_DIR$/lektion_17/code/hausaufgaben_17/hausaufgaben_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_18/code/hausaufgaben_18/hausaufgaben_18.iml" filepath="$PROJECT_DIR$/lektion_18/code/hausaufgaben_18/hausaufgaben_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_19/code/hausaufgaben_19/hausaufgaben_19.iml" filepath="$PROJECT_DIR$/lektion_19/code/hausaufgaben_19/hausaufgaben_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_1_bis_15/hausaufgaben_1_bis_15.iml" filepath="$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_1_bis_15/hausaufgaben_1_bis_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_20/code/hausaufgaben_20/hausaufgaben_20.iml" filepath="$PROJECT_DIR$/lektion_20/code/hausaufgaben_20/hausaufgaben_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_20_2/code/hausaufgaben_20_2/hausaufgaben_20_2.iml" filepath="$PROJECT_DIR$/lektion_20_2/code/hausaufgaben_20_2/hausaufgaben_20_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_21/code/hausaufgaben_21/hausaufgaben_21.iml" filepath="$PROJECT_DIR$/lektion_21/code/hausaufgaben_21/hausaufgaben_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_21_Debugging/code/hausaufgaben_21_debugging/hausaufgaben_21_debugging.iml" filepath="$PROJECT_DIR$/lektion_21_Debugging/code/hausaufgaben_21_debugging/hausaufgaben_21_debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_22/code/hausaufgaben_22_3/hausaufgaben_22_3.iml" filepath="$PROJECT_DIR$/lektion_22/code/hausaufgaben_22_3/hausaufgaben_22_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_24/code/hausaufgaben_24/hausaufgaben_24.iml" filepath="$PROJECT_DIR$/lektion_24/code/hausaufgaben_24/hausaufgaben_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_26/code/hausaufgaben_26/hausaufgaben_26.iml" filepath="$PROJECT_DIR$/lektion_26/code/hausaufgaben_26/hausaufgaben_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_27/code/hausaufgaben_27/hausaufgaben_27.iml" filepath="$PROJECT_DIR$/lektion_27/code/hausaufgaben_27/hausaufgaben_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_25/code/hausaufgaben_3/hausaufgaben_3.iml" filepath="$PROJECT_DIR$/lektion_25/code/hausaufgaben_3/hausaufgaben_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_30/code/hausaufgaben_30/hausaufgaben_30.iml" filepath="$PROJECT_DIR$/lektion_30/code/hausaufgaben_30/hausaufgaben_30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_35/code/hausaufgaben_35/hausaufgaben_35.iml" filepath="$PROJECT_DIR$/lektion_35/code/hausaufgaben_35/hausaufgaben_35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" filepath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" filepath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_26/code/hundred_integer/hundred_integer.iml" filepath="$PROJECT_DIR$/lektion_26/code/hundred_integer/hundred_integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javakurs2023.iml" filepath="$PROJECT_DIR$/.idea/javakurs2023.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion32/code/restaurant_bot_2/restaurant_bot_2.iml" filepath="$PROJECT_DIR$/Lektion32/code/restaurant_bot_2/restaurant_bot_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion33/code/task_1/task_1.iml" filepath="$PROJECT_DIR$/Lektion33/code/task_1/task_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion22/test/test.iml" filepath="$PROJECT_DIR$/Lektion22/test/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lektion34/code/todolist/todolist.iml" filepath="$PROJECT_DIR$/Lektion34/code/todolist/todolist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_26/code/task_1/lesson_26.iml" filepath="$PROJECT_DIR$/lektion_26/code/task_1/lesson_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_21/code/minmax/minmax.iml" filepath="$PROJECT_DIR$/lektion_21/code/minmax/minmax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_16/code/negative_input_break/negative_input_break.iml" filepath="$PROJECT_DIR$/lektion_16/code/negative_input_break/negative_input_break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_21/code/nod/nod.iml" filepath="$PROJECT_DIR$/lektion_21/code/nod/nod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_31/code/numeric_systems/numeric_systems.iml" filepath="$PROJECT_DIR$/lektion_31/code/numeric_systems/numeric_systems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_20/code/perimeter/perimeter.iml" filepath="$PROJECT_DIR$/lektion_20/code/perimeter/perimeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_25/code/post_codes/post_codes.iml" filepath="$PROJECT_DIR$/lektion_25/code/post_codes/post_codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_1_bis_15/code/proba_1/proba_1.iml" filepath="$PROJECT_DIR$/lektion_1_bis_15/code/proba_1/proba_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_18/Fibonacci/code/proba_fibonaci/proba_fibonaci.iml" filepath="$PROJECT_DIR$/lektion_18/Fibonacci/code/proba_fibonaci/proba_fibonaci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_29/code/random_duplicate/random_duplicate.iml" filepath="$PROJECT_DIR$/lektion_29/code/random_duplicate/random_duplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_29/code/restaurant_bot/restaurant_bot.iml" filepath="$PROJECT_DIR$/lektion_29/code/restaurant_bot/restaurant_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_31/code/restaurant_bot_1/restaurant_bot_1.iml" filepath="$PROJECT_DIR$/lektion_31/code/restaurant_bot_1/restaurant_bot_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_32/code/restaurant_bot_2/restaurant_bot_2.iml" filepath="$PROJECT_DIR$/lektion_32/code/restaurant_bot_2/restaurant_bot_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_16/code/sum_even_numbers/sum_even_numbers.iml" filepath="$PROJECT_DIR$/lektion_16/code/sum_even_numbers/sum_even_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_33/code/task_1/task_1.iml" filepath="$PROJECT_DIR$/lektion_33/code/task_1/task_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_26/code/task_2/task_2.iml" filepath="$PROJECT_DIR$/lektion_26/code/task_2/task_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_26/code/task_3/task_3.iml" filepath="$PROJECT_DIR$/lektion_26/code/task_3/task_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_22/code/hausaufgaben_22/test.iml" filepath="$PROJECT_DIR$/lektion_22/code/hausaufgaben_22/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_34/code/todolist/todolist.iml" filepath="$PROJECT_DIR$/lektion_34/code/todolist/todolist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_25/code/words/words.iml" filepath="$PROJECT_DIR$/lektion_25/code/words/words.iml" />
     </modules>
   </component>
 </project>
