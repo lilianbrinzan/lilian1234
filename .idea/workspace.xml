@@ -5,196 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_16/code/negative_input_break/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_16/code/sum_even_numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_17/code/arrays/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_18/code/arrays_practicum/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_19/code/array_x2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_20/code/example_20/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_20/code/exceptions/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_20/code/perimeter/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_21/code/finder/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_21/code/minmax/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_21/code/nod/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_22/code/arraylist_sort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_22/code/hausaufgaben_22/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_24/code/hausaufgaben_24/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_25/code/alphabet/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_25/code/words/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_26/code/hundred_integer/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_26/code/task_2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_26/code/task_3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_29/code/random_duplicate/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_30/code/binary_sistem_2/binary_sistem_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_30/code/hausaufgaben_30/hausaufgaben_30.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_31/code/file_io_exemple_1/file_io_exemple_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_31/code/file_io_exemple_1/untitled6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_31/code/hausaufgaben31/hausaufgaben31.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_31/code/numeric_systems/numeric_systems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_31/code/restaurant_bot_1/restaurant_bot_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_32/code/coffee_mashine/coffee_mashine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_32/code/example/example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_32/code/hausaufgaben32/hausaufgaben32.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_32/code/hausaufgaben32/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_32/code/restaurant_bot_2/restaurant_bot_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_33/code/task_1/task_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_34/code/hausaufgaben34/hausaufgaben34.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_34/code/todolist/todolist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_35/code/hausaufgaben_35/hausaufgaben_35.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_35/code/hausaufgaben_35/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_35/code/example_1/example_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_35/code/example_1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_35/code/example_1/src/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_35/code/hausaufgaben_35/src/Wine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_36/code/hausaufgaben_36/hausaufgaben_36.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_36/code/hausaufgaben_36/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_16/code/negative_input_break/negative_input_break.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci/out/production/Fibonacci/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_18/Fibonacci/code/proba_fibonaci/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HOMEWORK/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HOMEWORK/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HOMEWORK/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HOMEWORK/HOMEWORK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_16/code/sum_even_numbers/sum_even_numbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HOMEWORK/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion16/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion16/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion16/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion16/Lektion16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_17/code/arrays/arrays.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion16/out/production/Lektion16/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion16/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion17/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion17/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion17/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion17/Lektion17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_17/code/hausaufgaben_17/hausaufgaben_17.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion17/out/production/Lektion17/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion17/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_17/code/hausaufgaben_17/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion18/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion18/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion18/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion18/Lektion18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_18/Fibonacci/code/proba_fibonaci/proba_fibonaci.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion18/out/production/Lektion18/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion18/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion19/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion19/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion19/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion19/Lektion19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_18/code/arrays_practicum/arrays_practicum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion19/out/production/Lektion19/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion19/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_19/code/hausaufgaben_19/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20/Lektion20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_18/code/hausaufgaben_18/hausaufgaben_18.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20/out/production/Lektion20/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20_2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20_2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20_2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20_2/Lektion20_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_19/code/array_x2/array_x2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20_2/out/production/Lektion20_2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion20_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_20_2/code/hausaufgaben_20_2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21/Lektion21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_19/code/hausaufgaben_19/hausaufgaben_19.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21/out/production/Lektion21/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_21/code/hausaufgaben_21/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21Debugging/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21Debugging/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21Debugging/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21Debugging/Lektion21Debugging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_13/hausaufgaben_13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21Debugging/out/production/Lektion21Debugging/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion21Debugging/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_21_Debugging/code/hausaufgaben_21_debugging/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/Hausaufgaben/Hausaufgaben.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_1_bis_15/hausaufgaben_1_bis_15.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/Hausaufgaben/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/Lektion22.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/proba_1/proba_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/out/production/Hausaufgaben/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/out/production/Lektion22/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_22/code/arraylist_example/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_16/code/hausaufgaben/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion22/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_20/code/example_20/example_20.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion24/code/consultation/consultation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_29/code/restaurant_bot/restaurant_bot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion24/code/homework/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_20/code/exceptions/exceptions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion24/code/homework/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_22/code/hausaufgaben_22_3/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25.1/Lektion25.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_20/code/hausaufgaben_20/hausaufgaben_20.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25.1/code/homework2/homework2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_20/code/perimeter/perimeter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25.1/code/homework2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_25/code/hausaufgaben_3/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25.1/code/lesson/lesson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_20_2/code/hausaufgaben_20_2/hausaufgaben_20_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25.1/code/lesson/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_25/code/post_codes/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25.1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_18/code/hausaufgaben_18/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25/Lektion25.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_21/code/finder/finder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion25/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_1_bis_15/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion26/code/homework/untitled2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_26/code/hausaufgaben_26/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion26/code/homework/untitled2/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_21/code/hausaufgaben_21/hausaufgaben_21.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion26/code/lesson/untitled1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_26/code/task_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion26/code/lesson/untitled1/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_21/code/minmax/minmax.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion26/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_29/code/random_duplicate/random_duplicate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion27/code/homework/untitled3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_27/code/hausaufgaben_27/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion27/code/homework/untitled3/untitled3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_21/code/nod/nod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion28/code/Lektion28.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_21_Debugging/code/hausaufgaben_21_debugging/hausaufgaben_21_debugging.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion28/code/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion29/code/garland/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_22/code/arraylist_example/arraylist_example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion29/code/garland/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_29/code/garland/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion29/code/restaurant_bot/restaurant_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_22/code/arraylist_sort/arraylist_sort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion29/code/restaurant_bot/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_29/code/restaurant_bot/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/binary_sistem_1/binary_sistem_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_30/code/binary_sistem_1/binary_sistem_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/binary_sistem_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_30/code/binary_sistem_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/binary_sistem_2/binary_sistem_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_22/code/hausaufgaben_22/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/binary_sistem_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_30/code/binary_sistem_2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/hausaufgaben/hausaufgaben.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_16/code/hausaufgaben/hausaufgaben.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion30/code/hausaufgaben/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_30/code/hausaufgaben_30/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_31/code/code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/file_io_exemple_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_31/code/file_io_exemple_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/file_io_exemple_1/src/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_31/code/file_io_exemple_1/src/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/file_io_exemple_1/untitled6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_22/code/hausaufgaben_22_3/hausaufgaben_22_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/hausaufgaben31/hausaufgaben31.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_24/code/hausaufgaben_24/hausaufgaben_24.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/hausaufgaben31/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_31/code/hausaufgaben31/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/hausaufgaben31/src/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_31/code/hausaufgaben31/src/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/numeric_systems/untitled7/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_31/code/numeric_systems/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/numeric_systems/untitled7/untitled7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_25/code/alphabet/alphabet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/restaurant_bot_1/restaurant_bot_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_25/code/hausaufgaben_3/hausaufgaben_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/restaurant_bot_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_31/code/restaurant_bot_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion31/code/restaurant_bot_1/src/tables_status.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_31/code/restaurant_bot_1/src/tables_status.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/coffee_mashine/coffee_mashine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_25/code/post_codes/post_codes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/coffee_mashine/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_32/code/coffee_mashine/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/example/enum_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_25/code/words/words.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/example/example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_26/code/hausaufgaben_26/hausaufgaben_26.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/example/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_32/code/example/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/hausaufgaben32/hausaufgaben32.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_26/code/hundred_integer/hundred_integer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/hausaufgaben32/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_20/code/hausaufgaben_20/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/hausaufgaben32/untitled5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_26/code/task_1/lesson_26.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/restaurant_bot_2/restaurant_bot_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_26/code/task_2/task_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/restaurant_bot_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_32/code/restaurant_bot_2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion32/code/restaurant_bot_2/src/tables_status.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_32/code/restaurant_bot_2/src/tables_status.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion33/code/task_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_33/code/task_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion33/code/task_1/task_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_26/code/task_3/task_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion34/code/hausaufgaben34/hausaufgaben34.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_27/code/hausaufgaben_27/hausaufgaben_27.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion34/code/hausaufgaben34/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_34/code/hausaufgaben34/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion34/code/todolist/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_34/code/todolist/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion34/code/todolist/todolist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leonid_1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leonid_1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leonid_1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leonid_1/Leonid_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leonid_1/out/production/Leonid_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leonid_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/proba_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home13/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home13/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home13/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home13/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home13/home13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_29/code/garland/garland.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home13/out/production/home13/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home13/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_13/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_35/code/hausaufgaben_35/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_35/code/hausaufgaben_35/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -270,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677847881986</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson update">
+      <created>1678042349298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678042349298</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
