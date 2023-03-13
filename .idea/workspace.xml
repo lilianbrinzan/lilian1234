@@ -4,24 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/bus/hausaufgaben_38.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/bus/src/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/hausaufgaben_38_1/bus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/hausaufgaben_38_1/src/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/hausaufgaben_38_1/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/hausaufgaben_38_1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/hausaufgaben_38_1/src/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/triangle/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/triangle/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/triangle/triangle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/voter/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/voter/src/Voter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_38/code/voter/voter.iml" afterDir="false" />
+    <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="lesson update">
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/bus_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/src/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/dancer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/BreakDancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/Dancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/DancerClassik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/TwistDancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/hausaufgaben_39.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/src/Airplan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/src/Pilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Trapezoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/hausaufgaben_40/hausaufgaben_40.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/hausaufgaben_40/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_37/code/animals_veterinar/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_37/code/animals_veterinar/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_38/code/hausaufgaben_38/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_38/code/bus/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_37/code/hausaufgaben_37/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_37/code/hausaufgaben_37/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678286539416</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lesson update">
+      <created>1678652534648</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678652534648</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
