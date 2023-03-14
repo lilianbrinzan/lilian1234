@@ -4,34 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="lesson update">
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/bus_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/src/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/bus_1/src/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/dancer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/BreakDancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/Dancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/DancerClassik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/dancer/src/TwistDancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/hausaufgaben_39.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/src/Airplan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/src/Pilot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/shape.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Trapezoid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_39/code/shape/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/hausaufgaben_40/hausaufgaben_40.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/hausaufgaben_40/src/Main.java" afterDir="false" />
+    <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/cars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/human.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Sportsman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_37/code/hausaufgaben_37/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_37/code/hausaufgaben_37/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678652534648</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lesson update">
+      <created>1678745835134</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678745835134</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
