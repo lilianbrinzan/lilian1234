@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/cars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/cars/src/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/human.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Sportsman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_40/code/human/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/hausaufgaben_41.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/interface_example/interface_example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/interface_example/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/interface_example/src/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/interface_example/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/object_egual_exampl/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/object_egual_exampl/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/object_egual_exampl/src/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/src/BankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/src/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/src/Debit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/two_interfaces.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -28,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -141,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678745835134</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lesson update">
+      <created>1678830076294</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678830076294</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
