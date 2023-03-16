@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lektion_42/code/access_example/access_example.iml" filepath="$PROJECT_DIR$/lektion_42/code/access_example/access_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_25/code/alphabet/alphabet.iml" filepath="$PROJECT_DIR$/lektion_25/code/alphabet/alphabet.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_37/code/animals_veterinar/animals_veterinar.iml" filepath="$PROJECT_DIR$/lektion_37/code/animals_veterinar/animals_veterinar.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_19/code/array_x2/array_x2.iml" filepath="$PROJECT_DIR$/lektion_19/code/array_x2/array_x2.iml" />
@@ -50,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/hausaufgaben_39.iml" filepath="$PROJECT_DIR$/lektion_39/code/hausaufgaben_39/hausaufgaben_39.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_40/code/hausaufgaben_40/hausaufgaben_40.iml" filepath="$PROJECT_DIR$/lektion_40/code/hausaufgaben_40/hausaufgaben_40.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/hausaufgaben_41.iml" filepath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/hausaufgaben_41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/hausaufgaben_42.iml" filepath="$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/hausaufgaben_42.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" filepath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" filepath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_36/code/homework_l35/homework_l35.iml" filepath="$PROJECT_DIR$/lektion_36/code/homework_l35/homework_l35.iml" />
@@ -59,6 +61,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/javakurs2023.iml" filepath="$PROJECT_DIR$/.idea/javakurs2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_26/code/task_1/lesson_26.iml" filepath="$PROJECT_DIR$/lektion_26/code/task_1/lesson_26.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_21/code/minmax/minmax.iml" filepath="$PROJECT_DIR$/lektion_21/code/minmax/minmax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_42/code/money/money.iml" filepath="$PROJECT_DIR$/lektion_42/code/money/money.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_16/code/negative_input_break/negative_input_break.iml" filepath="$PROJECT_DIR$/lektion_16/code/negative_input_break/negative_input_break.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_21/code/nod/nod.iml" filepath="$PROJECT_DIR$/lektion_21/code/nod/nod.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_31/code/numeric_systems/numeric_systems.iml" filepath="$PROJECT_DIR$/lektion_31/code/numeric_systems/numeric_systems.iml" />

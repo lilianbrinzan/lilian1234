@@ -5,22 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/hausaufgaben_41.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/interface_example/interface_example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/interface_example/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/interface_example/src/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/interface_example/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/object_egual_exampl/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/object_egual_exampl/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/object_egual_exampl/src/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/src/BankCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/src/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/src/Debit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_41/code/two_interfaces/two_interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/src/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_41/code/object_egual_exampl/object_egual_exampl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/access_example/access_example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/access_example/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/access_example/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/hausaufgaben_42.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/src/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/src/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/money/money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/money/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_42/code/money/src/Money.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,20 @@
       <recent name="C:\Users\AIT TR Student\Documents\javakurs2023\lektion_21\code" />
       <recent name="C:\Users\AIT TR Student\Documents\javakurs2023\lektion_20\code" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="hausaufgaben_41" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -151,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678830076294</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lesson update">
+      <created>1678902179181</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678902179181</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
