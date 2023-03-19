@@ -25,7 +25,8 @@ public class Auto extends Car{
     }
 
     public void setCapacity(int capacity) {
-        this.capacity = capacity;
+
+          this.capacity = capacity;
     }
 
 }

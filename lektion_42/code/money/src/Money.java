@@ -13,17 +13,50 @@ public class Money {
     public String toString() { // это сигнатура метода, доступный, возвращает строку
         return String.format("%.2f %s", amount / 100.0, currency.toUpperCase()); // вывод кол-ва денег и названия валюты
     }
+
     // переопределяение метода equals
     @Override
     public boolean equals(Object other) {
-        if (this == other) {
+        if (this == other) { // если этот элемент объект (класс?) равет другому объекту (передаваемомоу) класса
             return true;
         }
-        if (!(other instanceof Money money)) {
-            return false;
+        if (!(other instanceof Money money)) { // такая валюта уже есть в объектах этого класса
+            return false;  // если такой валюты нет, то возвращаем false
         }
         return amount == money.amount && currency.equalsIgnoreCase(money.currency);
+                                                                                  // если количество денег совпадает
+                                                                                 // и название валюты совпадает,
+                                                                                // то true
     }
+
+    /** Tema pentru acasa
+     *
+     * // переопределяение метода equals
+     *     @Override
+     *     public boolean equals(Object obj) {
+     *         if (obj == null || this.getClass() != obj.getClass()) {       // если объект obj является экземпляром класса Human
+     *             return false;
+     *         }
+     *         Money that = (Money) obj;
+     *         return this.amount == that.amount && this.currency.equalsIgnoreCase(that.currency);
+     *     }
+     *
+     */
 
 
 }
+
+
+// Oleg Karimov  sau
+/**
+ *
+ * // переопределяение метода equals
+ *     @Override
+ *     public boolean equals(Object obj) {
+ *         if (obj == null || this.getClass() != obj.getClass()) {       // если объект obj является экземпляром класса Human
+ *             return false;
+ *         }
+ *         Money that = (Money) obj;
+ *         return this.amount == that.amount && this.currency.equalsIgnoreCase(that.currency);
+ *     }
+ */
