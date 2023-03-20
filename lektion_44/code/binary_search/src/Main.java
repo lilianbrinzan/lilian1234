@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Binarnii poisc v Massive");
+        System.out.println("Бинарный поиск в массиве:");
 
         // На входе массив из 10 целых чисел от 0 до 100, числа заданы произвольно,
         // массив отсортирован от меньшего к большему элементу
@@ -11,23 +11,23 @@ public class Main {
         // ключевой алгоритм - поделить массив пополам и понять, в какой половинке искомый элемент
         // продолжать,пока не будет найден искомый элемент массива или не закончится массив
 
-        int [] array = { 3, 5, 19, 22, 33, 46, 51, 64, 85, 99  };
+        int [] array = { 3, 5, 19, 22, 33, 46, 51, 64, 85, 99};
         int lenght = array.length;
-        System.out.println("Bvv" + lenght);
+        System.out.println("Длина массива: " + lenght);
 
         Scanner sc = new Scanner( System.in);
-        System.out.println("B....");
+        System.out.println("Ввведите интересующее вас число в массиве:");
         int element = sc.nextInt();
-        System.out.println("B...." + element + " v masive.");
+        System.out.println("Ищем элемент" + element + " в массиве.");
 
-        // zadaiom
+        // задаем начальные условия
         boolean hasElement = false;
-        int left = 0; // levii
-        int right = lenght - 1; // pravii
-        int middle = left + (right - left)/2; // eto index seredini massiva
+        int left = 0; // это левый конец массива (индекс)
+        int right = lenght - 1; // это правый конец массива (индекс)
+        int middle = left + (right - left)/2; // это индекс середины массива
 
         while ( left < right){
-            if (element < array[middle]){ // esli iskommi element v levii plovini
+            if (element < array[middle]){ // если искомый элемент в левой половине
                 right = middle -1;
 
             } if (element < array[middle]) {
@@ -37,7 +37,7 @@ public class Main {
                 break;
             }
 
-            middle = left + (right - left)/2; // vicesleam novuiu seredinu
+            middle = left + (right - left)/2; // вычисляем новую середину
 
         }
 
