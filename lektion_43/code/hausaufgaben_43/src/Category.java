@@ -5,12 +5,14 @@ public class Category {
     Product product; // product, v котором vhodit Category
 
     String name;
+
     int capacity;
 
     public Category(String name, int capacity) {
-        this.name = name;
-        this.capacity = capacity;
+            this.name = name;
+            this.capacity = capacity;
     }
+
 
     public void go(Product product){
         this.product = product;
@@ -19,25 +21,15 @@ public class Category {
     public void category() {
         this.product.go(); // вызываем метод из класса Product
     }
-
+    //////////////////////////////////////////////////////////////////////////77
 
     public String getName() {
         return name;
-    }
+    }  // ramine
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public int getCapacity() {
-        return capacity;
-    }
-
-    public void setCapacity(int capacity) {
-        this.capacity = capacity;
-    }
 
     ////////////////////////////////////////////////////////////////////////////////////////
+
 
     @Override
     public String toString() {
@@ -46,21 +38,4 @@ public class Category {
                 ", capacity=" + capacity +
                 '}';
     }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Category category)) return false;
-
-        if (capacity != category.capacity) return false;
-        return name.equals(category.name);
-    }
-
-    @Override
-    public int hashCode() {
-        int result = name.hashCode();
-        result = 31 * result + capacity;
-        return result;
-    }
-
 }

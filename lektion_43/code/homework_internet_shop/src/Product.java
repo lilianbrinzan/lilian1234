@@ -25,6 +25,7 @@ public class Product {
 
     // метод, который связывает name_product и category
     public void go (){
+
         System.out.println("Product " + this.name_product+ " вошёл в - " + category.getName());
     }
 
@@ -33,30 +34,7 @@ public class Product {
     }
 
 
-    /// getter  und setter
-    public String getName_product() {
-        return name_product;
-    }
-
-    public void setName_product(String name_product) {
-        this.name_product = name_product;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
-    }
-
-    public int getRating() {
-        return rating;
-    }
-
-    public void setRating(int rating) {
-        this.rating = rating;
-    }
+// toString
 
     @Override
     public String toString() {
@@ -67,22 +45,4 @@ public class Product {
                 '}';
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Product product)) return false;
-
-        if (Double.compare(product.price, price) != 0) return false;
-        return name_product.equals(product.name_product);
-    }
-
-    @Override
-    public int hashCode() {
-        int result;
-        long temp;
-        result = name_product.hashCode();
-        temp = Double.doubleToLongBits(price);
-        result = 31 * result + (int) (temp ^ (temp >>> 32));
-        return result;
-    }
 }

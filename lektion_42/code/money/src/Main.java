@@ -16,6 +16,7 @@ public class Main {
         Money m3 = new Money(1000, "usd");
         m3.toString();
         System.out.println(m1.equals(m3));
+        // System.out.println(m3.equals(m1));
 
 
         // Tema pentru acasa

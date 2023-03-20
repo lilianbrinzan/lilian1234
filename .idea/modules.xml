@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_22/code/arraylist_sort/arraylist_sort.iml" filepath="$PROJECT_DIR$/lektion_22/code/arraylist_sort/arraylist_sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_17/code/arrays/arrays.iml" filepath="$PROJECT_DIR$/lektion_17/code/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_18/code/arrays_practicum/arrays_practicum.iml" filepath="$PROJECT_DIR$/lektion_18/code/arrays_practicum/arrays_practicum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_44/code/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/lektion_44/code/binary_search/binary_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_30/code/binary_sistem_1/binary_sistem_1.iml" filepath="$PROJECT_DIR$/lektion_30/code/binary_sistem_1/binary_sistem_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_30/code/binary_sistem_2/binary_sistem_2.iml" filepath="$PROJECT_DIR$/lektion_30/code/binary_sistem_2/binary_sistem_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_38/code/hausaufgaben_38_1/bus.iml" filepath="$PROJECT_DIR$/lektion_38/code/hausaufgaben_38_1/bus.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_32/code/example/example.iml" filepath="$PROJECT_DIR$/lektion_32/code/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_35/code/example_1/example_1.iml" filepath="$PROJECT_DIR$/lektion_35/code/example_1/example_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_20/code/example_20/example_20.iml" filepath="$PROJECT_DIR$/lektion_20/code/example_20/example_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_44/code/example_l44/example_l44.iml" filepath="$PROJECT_DIR$/lektion_44/code/example_l44/example_l44.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_20/code/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/lektion_20/code/exceptions/exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_31/code/file_io_exemple_1/file_io_exemple_1.iml" filepath="$PROJECT_DIR$/lektion_31/code/file_io_exemple_1/file_io_exemple_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_21/code/finder/finder.iml" filepath="$PROJECT_DIR$/lektion_21/code/finder/finder.iml" />
@@ -53,8 +55,10 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/hausaufgaben_41.iml" filepath="$PROJECT_DIR$/lektion_41/code/hausaufgaben_41/hausaufgaben_41.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/hausaufgaben_42.iml" filepath="$PROJECT_DIR$/lektion_42/code/hausaufgaben_42/hausaufgaben_42.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_43/code/hausaufgaben_43/hausaufgaben_43.iml" filepath="$PROJECT_DIR$/lektion_43/code/hausaufgaben_43/hausaufgaben_43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_44/code/hausaufgaben_44/hausaufgaben_44.iml" filepath="$PROJECT_DIR$/lektion_44/code/hausaufgaben_44/hausaufgaben_44.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" filepath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" filepath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_43/code/homework_internet_shop/homework_internet_shop.iml" filepath="$PROJECT_DIR$/lektion_43/code/homework_internet_shop/homework_internet_shop.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_36/code/homework_l35/homework_l35.iml" filepath="$PROJECT_DIR$/lektion_36/code/homework_l35/homework_l35.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_40/code/human/human.iml" filepath="$PROJECT_DIR$/lektion_40/code/human/human.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_26/code/hundred_integer/hundred_integer.iml" filepath="$PROJECT_DIR$/lektion_26/code/hundred_integer/hundred_integer.iml" />

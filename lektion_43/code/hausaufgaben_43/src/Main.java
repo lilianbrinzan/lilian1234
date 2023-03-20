@@ -17,8 +17,6 @@ public class Main {
          * Вывести на консоль покупки посетителей магазина.
          */
 
-
-
         // Создаём product
         Product product1 = new Product("Wine", 10, 2);
 
@@ -31,5 +29,11 @@ public class Main {
 
         // печатаем информацию о Wine
         System.out.println(product1);
+
+
+
+
+
+
     }
 }
