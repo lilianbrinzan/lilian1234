@@ -18,19 +18,20 @@ public class Main {
         Scanner sc = new Scanner( System.in);
         System.out.println("Ввведите интересующее вас число в массиве:");
         int element = sc.nextInt();
-        System.out.println("Ищем элемент" + element + " в массиве.");
+        System.out.println("Ищем элемент " + element + " в массиве.");
 
         // задаем начальные условия
         boolean hasElement = false;
+
         int left = 0; // это левый конец массива (индекс)
         int right = lenght - 1; // это правый конец массива (индекс)
         int middle = left + (right - left)/2; // это индекс середины массива
 
-        while ( left < right){
+        while ( left <= right){
             if (element < array[middle]){ // если искомый элемент в левой половине
                 right = middle -1;
 
-            } if (element < array[middle]) {
+            } else if (element > array[middle]) {
                 left = middle + 1;
             } else {
                 hasElement = true;
