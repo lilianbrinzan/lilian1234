@@ -15,8 +15,8 @@ public class Wine implements Comparable<Wine> {
         return "Wine{" +
                 "number=" + number +
                 ", price=" + price +
-                ", name='" + name + '\'' +
-                '}';
+                ", name='" + name +
+                '}' + '\n' ;
     }
     // compareTo
     //...

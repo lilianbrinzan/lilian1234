@@ -10,22 +10,25 @@ public class Main {
 
         // Добавляем элементы к набору
 
-        ts.add("Baden-Württemberg");
-        ts.add("Bayern");
-        ts.add("Berlin");
-        ts.add("Brandenburg");
-        ts.add("Bremen");
-        ts.add("Hamburg");
-        ts.add("Hessen");
-        ts.add("Mecklenburg-Vorpommern");
-        ts.add("Niedersachsen");
-        ts.add("Nordrhein-Westfalen");
-        ts.add("Rheinland-Pfalz");
-        ts.add("Saarland");
-        ts.add("Sachsen");
-        ts.add("Sachsen-Anhalt");
-        ts.add("Schleswig-Holstein");
-        ts.add("Thüringen");
+        ts.add("Hamburg\n");
+        ts.add("Hessen\n");
+        ts.add("Mecklenburg-Vorpommern\n");
+        ts.add("Niedersachsen\n");
+        ts.add("Nordrhein-Westfalen\n");
+        ts.add("Rheinland-Pfalz\n");
+        ts.add("Saarland\n");
+        ts.add("Sachsen\n");
+        ts.add("Sachsen-Anhalt\n");
+        ts.add("Schleswig-Holstein\n");
+        ts.add("Thüringen\n");
+        ts.add("Bayern\n");
+        ts.add("Berlin\n");
+        ts.add("Brandenburg\n");
+        ts.add("Baden-Württemberg\n");
+        ts.add("Bremen\n");
+        ts.add("Berlin\n");
+
+
         System.out.println("Пример со строками");
         // Выводим на печать
         System.out.println(ts);
