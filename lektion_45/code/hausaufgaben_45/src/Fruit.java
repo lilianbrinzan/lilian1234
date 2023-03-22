@@ -1,15 +1,12 @@
 public class Fruit implements Comparable<Fruit>{
-
     String name;
     int cod;
     int weiht;
-
     public Fruit(String name, int cod, int weiht) {
         this.name = name;
         this.cod = cod;
         this.weiht = weiht;
     }
-
     @Override
     public String toString() {
         return "\nFruit{" +
@@ -18,7 +15,6 @@ public class Fruit implements Comparable<Fruit>{
                 ", weiht=" + weiht +
                 '}';
     }
-
     @Override
     public int compareTo(Fruit anotherFruit) {
         if (this.cod == anotherFruit.cod){
@@ -30,5 +26,4 @@ public class Fruit implements Comparable<Fruit>{
             return 1; // возвращаем + 1, если ...
         }
     }
-
 }
