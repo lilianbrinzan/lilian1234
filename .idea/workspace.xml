@@ -5,21 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_0/comparing_objects_0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_0/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_0/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_0/src/SortbyID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_0/src/SortbyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_1/comparing_objects_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_1/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/hausaufgaben_46/hausaufgaben_46.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/hausaufgaben_46/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/hausaufgaben_46/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_46/code/hausaufgaben_46/src/SortbyYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_2/comparing_objects_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_2/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_2/src/HumanByAgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_2/src/HumanByWeightComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_46/code/comparing_objects_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_46/code/hausaufgaben_46/src/SortbyName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_47/code/hausaufgaben_47/hausaufgaben_47.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_47/code/hausaufgaben_47/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_47/code/java_swing_example/java_swing_example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_47/code/java_swing_example/src/ButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_47/code/konsultatia_47/konsultatia_47.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_47/code/konsultatia_47/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_48/code/hausaufgaben_48/hausaufgaben_48.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_48/code/hausaufgaben_48/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_30/code/binary_sistem_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_30/code/binary_sistem_1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_30/code/binary_sistem_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_30/code/binary_sistem_2/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lektion_45/code/hausaufgaben_45/src/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_45/code/hausaufgaben_45/src/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_46/code/hausaufgaben_46/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_46/code/hausaufgaben_46/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +77,13 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java_swing_example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="hausaufgaben_41" />
@@ -79,8 +91,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simple" />
+      <module name="java_swing_example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Simple" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -199,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679426360205</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="lesson update">
+      <created>1679510576721</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679510576721</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

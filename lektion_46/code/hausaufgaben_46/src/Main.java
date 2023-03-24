@@ -24,16 +24,19 @@ public class Main {
         Collections.sort(dogList, new SortbyYear());
         // вызываем метод sort для коллекции
 
-
         for (int i = 0; i < dogList.size(); i++) {
             System.out.println(dogList.get(i));
         }
         System.out.println("Sorted data according to Dog year");
+        System.out.println("///////////////");
         // печатаем
 
 
-
-
+        Collections.sort(dogList, new SortbyName());
+        for (int i = 0; i < dogList.size(); i++) {
+            System.out.println(dogList.get(i));
+        }
+        System.out.println("Sorted data according to Dog name");
 
 
     }
