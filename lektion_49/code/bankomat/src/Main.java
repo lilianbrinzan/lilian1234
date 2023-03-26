@@ -6,19 +6,27 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("rabota s faielom");
-        String path = "C:\\Users\\AIT TR Student\\Documents\\javakurs2023\\lektion_48\\code\\file_io_example\\src\\";
+        System.out.println("Банкомат ");
+        /**
+         *       Банкомат
+         * Разработайте интерфейс банкомата на Java.
+         * Работая над проектом, вы должны создать пять классов:
+         *   - для владельца счета,
+         *   - самого счета,
+         *   - транзакции,
+         *   - банка
+         *   - банкомата.
+         * После ввода идентификатора и пин-кода пользователи должны получить доступ к записям о каждой транзакции,
+         * а также получить возможность класть деньги на депозит, снимать средства и делать переводы.
+         */
+
+        String path = "C:\\Users\\AIT TR Student\\Documents\\javakurs2023\\lektion_49\\code\\bankomat\\src\\";
         String fileName = "data.txt";
-
-        // CRUD - create, read, update, delete
-
         createFile(path, fileName); // sozdaeom fail
-        String data = " ea pomneu ciudnoie gnovenie...";
-
+        String data = " Банкомат ...PostBank...";
         writeDataInFile (path, fileName, data); // scriem datele in fail/ pisem datu v fail
         String d = readDataFromFile( path, fileName);
         System.out.println("procitano is faila :" + '\n' + d);
-
 
     }
 
@@ -39,7 +47,6 @@ public class Main {
 
     // Запись в файл текста
     private static void writeDataInFile(String path, String fileName, String data ){
-
         try {
             FileWriter myWriter = new FileWriter(path + fileName); // используем класс и его метод
             myWriter.write(data); // Пишем то, что записываем в файл
@@ -54,7 +61,6 @@ public class Main {
 
     private static String readDataFromFile ( String path, String fileName){
         String data = "";
-
         try {
             File myFile = new File(path + fileName);
             Scanner myReader = new Scanner(myFile); // готовим сканер для чтения
@@ -64,15 +70,13 @@ public class Main {
                 //System.out.println(data); // печатаем считанную строку
             }
             myReader.close();
-
         } catch (FileNotFoundException e) {
             System.out.println("Произошла ошибка.");
             e.printStackTrace();
         }
         return data;
-
     }
 
 
-}
 
+}
