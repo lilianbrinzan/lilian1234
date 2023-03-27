@@ -1,13 +1,19 @@
-public class Holder {
+public class Holder extends Account{
 
-    String nameHolder;
     String adreseHolder;
     int datum;
 
-    public Holder(String nameHolder, String adreseHolder, int datum) {
-        this.nameHolder = nameHolder;
+    public Holder(int iban, int pin_cod, String adreseHolder, int datum) {
+        super(iban, pin_cod);
         this.adreseHolder = adreseHolder;
         this.datum = datum;
     }
 
+    @Override
+    public String toString() {
+        return "Holder{" +
+                "adreseHolder='" + adreseHolder + '\'' +
+                ", datum=" + datum +
+                '}';
+    }
 }

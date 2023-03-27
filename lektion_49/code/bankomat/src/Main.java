@@ -4,6 +4,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Банкомат ");
@@ -20,6 +23,18 @@ public class Main {
          * а также получить возможность класть деньги на депозит, снимать средства и делать переводы.
          */
 
+        // Создаём Atm
+        Atm atm1 = new Atm(123456,"1");
+        // Создаем account
+        Account d1 = new Account(123456, 1234);
+        // назначаем account на Atm
+        d1.go(atm1);
+        System.out.println("Account.... " + atm1.getAccount().iban);
+
+        ///////////////////////////////////////////////////////////////
+
+
+
         String path = "C:\\Users\\AIT TR Student\\Documents\\javakurs2023\\lektion_49\\code\\bankomat\\src\\";
         String fileName = "data.txt";
         createFile(path, fileName); // sozdaeom fail
@@ -28,8 +43,9 @@ public class Main {
         String d = readDataFromFile( path, fileName);
         System.out.println("procitano is faila :" + '\n' + d);
 
-    }
 
+
+    }
     private static void createFile (String path, String fileName){
         try {
             File myFile = new File(path + fileName); // Укажите свое имя файла fileName
@@ -76,7 +92,6 @@ public class Main {
         }
         return data;
     }
-
 
 
 }
