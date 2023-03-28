@@ -15,14 +15,15 @@ public class Main {
         createFile(path, fileName); // sozdaeom fail
         String data = " ea pomneu ciudnoie gnovenie...";
 
-        writeDataInFile (path, fileName, data); // scriem datele in fail/ pisem datu v fail
+        writeDataInFile (path, fileName, data); // scriem datele in fail/ pishem datu v fail
+
         String d = readDataFromFile( path, fileName);
         System.out.println("procitano is faila :" + '\n' + d);
 
 
     }
 
-    private static void createFile (String path, String fileName){
+    private static void createFile (String path, String fileName) { // aici de pus throws IOExeption
         try {
             File myFile = new File(path + fileName); // Укажите свое имя файла fileName
 
@@ -38,11 +39,13 @@ public class Main {
     }
 
     // Запись в файл текста
-    private static void writeDataInFile(String path, String fileName, String data ){
+    private static void writeDataInFile(String path, String fileName, String data ){ // // aici de pus throws IOExeption
 
         try {
             FileWriter myWriter = new FileWriter(path + fileName); // используем класс и его метод
+
             myWriter.write(data); // Пишем то, что записываем в файл
+
             myWriter.close(); // Закрываем метод
             System.out.println("Успешная запись в файл."); // Сообщение об успехе
 
@@ -52,16 +55,18 @@ public class Main {
         }
     }
 
-    private static String readDataFromFile ( String path, String fileName){
-        String data = "";
+      // ctenie texta iz faila
+
+    private static String readDataFromFile (String path, String fileName){
 
         try {
             File myFile = new File(path + fileName);
             Scanner myReader = new Scanner(myFile); // готовим сканер для чтения
             while (myReader.hasNextLine()) {
 
-                data = myReader.nextLine(); // считываем строку
-                //System.out.println(data); // печатаем считанную строку
+                String data = myReader.nextLine(); // считываем строку
+                System.out.println(data); // печатаем считанную строку
+
             }
             myReader.close();
 
@@ -69,7 +74,7 @@ public class Main {
             System.out.println("Произошла ошибка.");
             e.printStackTrace();
         }
-        return data;
+        return path;
 
     }
 
