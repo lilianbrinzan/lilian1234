@@ -23,16 +23,16 @@ public class Transaction {
 
 
     public void setDeposit(int deposit) {
-        System.out.println("vnesti  деньги на депозит " + deposit);
+        System.out.println("внeсти деньги на депозит " + deposit);
         this.deposit = deposit;
     }
 
     public void setTransfers(int transfers) {
-        System.out.println("снeati so sceota   " + transfers);
+        System.out.println(" снeати с сцеота " + transfers);
         this.transfers = transfers;
     }
     public void setWithdraw(int withdraw) {
-        System.out.println("sделать переводы " + withdraw);
+        System.out.println("сделать переводы " + withdraw);
         this.withdraw = withdraw;
     }
 
@@ -46,17 +46,17 @@ public class Transaction {
     }
 
     public int getDeposit() {
-        System.out.println("vnesti  деньги на депозит " + deposit);
+        System.out.println(" внeсти  деньги на депозит " + deposit);
         return deposit;
     }
 
     public int getWithdraw() {
-        System.out.println("sделать переводы " + withdraw);
+        System.out.println("сделать переводы " + withdraw);
         return withdraw;
     }
 
     public int getTransfers() {
-        System.out.println("снeati so sceota   " + transfers);
+        System.out.println("снeати с сцеота   " + transfers);
         return transfers;
     }
 }

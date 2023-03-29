@@ -21,14 +21,19 @@ public class Main {
     public static void main(String[] args) throws IOException {
         System.out.println("Банкомат ");
 
-
         // Создаём Atm
-        Atm atm1 = new Atm(123456,"1");
-        // Создаем account
+        Atm atm1 = new Atm(123456, 1234,"De123456", "Stollenstr.12");
+        // Создаем Account
         Account d1 = new Account(123456, 1234);
         // назначаем account на Atm
         d1.go(atm1);
         System.out.println("Account = " + atm1.getAccount().iban);
+        // Создаём Transaction
+        Transaction t1 = new Transaction(100,200,300);
+        t1.go(atm1);
+        System.out.println("доступ к записям о каждой транзакции " + t1);
+
+
 
 
 
@@ -50,6 +55,8 @@ public class Main {
             System.out.println("Произошла ошибка.");
             e.printStackTrace();
         }
+
+
 
     }
 

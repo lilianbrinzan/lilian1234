@@ -1,7 +1,7 @@
 public class Atm extends Account{
 
-    String iban; // pomeneat na string i ...
-    String adreseAtm; // adres mit String
+    String iban;
+    String adreseAtm;
     public Account account;
 
     public Atm(int iban, int pin_cod, String iban1, String adreseAtm) {
