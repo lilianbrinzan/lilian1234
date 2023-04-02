@@ -47,10 +47,10 @@ public class Main {
         }
 
         // Создаём Atm
-        Atm atm1 = new Atm(123456789, 1234,"De123456", "Stollenstr.12");
-        // Создаем Account
+        Atm atm1 = new Atm(123456789, 1234,"DE123456789", "Stollenstr.12");
+        // Создаём Account
         Account d1 = new Account(123456789, 1234);
-        // назначаем account на Atm
+        // назначаем Account на Atm
         d1.go(atm1);
         System.out.println("Account = " + atm1.getAccount().iban);
         // Создаём Transaction
@@ -81,10 +81,11 @@ public class Main {
             Menu myMenu = Menu.ADD; // начальное значение выбора в меню
 
             switch (choice) {
+                // case (1): {}
                 case 1: {
                     myMenu = Menu.ADD;
-                    add_task(todoList); // вызов метода, который добавляе задачу в список задач
-                    print_tasks(todoList); // вызов метода, который печатает список задач
+                    add_task(todoList);
+                    print_tasks(todoList);  
                     break;
                 }
                 case 2: {

@@ -5,25 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/bankomat_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/Atm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/hausaufgaben_51/hausaufgaben_51.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_51/code/hausaufgaben_51/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/src/IncorrectNumberInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_ecaterina/bankomat_ecaterina.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_ecaterina/src/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_ecaterina/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_ecaterina/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_ecaterina/src/ClientBankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_ecaterina/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_ecaterina/src/numberCard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_ecaterina/src/pin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_52/code/data_time/data_time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_52/code/data_time/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_52/code/data_time/src/Table_reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_52/code/hausaufgaben_52/hausaufgaben_52.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_52/code/hausaufgaben_52/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Atm.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Atm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Holder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Holder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_50/code/bankomat_2/src/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/src/MathMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/src/MathMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/src/MathMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/src/MathMethodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_51/code/bankomat_3/src/data.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <recent name="C:\Users\AIT TR Student\Documents\javakurs2023\lektion_20\code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="hausaufgaben_41" />
@@ -127,8 +129,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MathMethodsTest.isEven" />
-        <item itemvalue="JUnit.MathMethodsTest.testIsEven" />
         <item itemvalue="JUnit.MathMethodsTest.testIsPrime" />
+        <item itemvalue="JUnit.MathMethodsTest.testIsEven" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Simple" />
       </list>
@@ -290,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680037465109</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="lesson update">
+      <created>1680119584747</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680119584747</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -298,9 +307,16 @@
     <MESSAGE value="lesson update" />
     <option name="LAST_COMMIT_MESSAGE" value="lesson update" />
   </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Table_reservation" memberName="timeReservation" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javakurs2023$MathMethodsTest_testIsEven.ic" NAME="MathMethodsTest.testIsEven Coverage Results" MODIFIED="1679925886202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/javakurs2023$MathMethodsTest_testIsPrime.ic" NAME="MathMethodsTest.testIsPrime Coverage Results" MODIFIED="1679922244669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/javakurs2023$MathMethodsTest_isEven.ic" NAME="MathMethodsTest.isEven Coverage Results" MODIFIED="1679926191631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/javakurs2023$MathMethodsTest_testIsPrime.ic" NAME="MathMethodsTest.testIsPrime Coverage Results" MODIFIED="1680276706864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/javakurs2023$MathMethodsTest_isEven.ic" NAME="MathMethodsTest.isEven Coverage Results" MODIFIED="1680276797900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
