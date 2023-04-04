@@ -3,8 +3,8 @@ import java.util.InputMismatchException;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Convert_Currency {
-
+public class Main {
+      // Convert_Currency
     public static Scanner sc = new Scanner(System.in);
     public static HashMap<String, Double> currencyList = new HashMap<>();
     public static HashMap<Integer, String> menuCurrencyList = new HashMap<>();

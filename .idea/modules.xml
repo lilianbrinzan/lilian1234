@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lektion_42/code/access_example/access_example.iml" filepath="$PROJECT_DIR$/lektion_42/code/access_example/access_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_53/code/algorithms/algorithms.iml" filepath="$PROJECT_DIR$/lektion_53/code/algorithms/algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_25/code/alphabet/alphabet.iml" filepath="$PROJECT_DIR$/lektion_25/code/alphabet/alphabet.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_37/code/animals_veterinar/animals_veterinar.iml" filepath="$PROJECT_DIR$/lektion_37/code/animals_veterinar/animals_veterinar.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_19/code/array_x2/array_x2.iml" filepath="$PROJECT_DIR$/lektion_19/code/array_x2/array_x2.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_46/code/comparing_objects_0/comparing_objects_0.iml" filepath="$PROJECT_DIR$/lektion_46/code/comparing_objects_0/comparing_objects_0.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_46/code/comparing_objects_1/comparing_objects_1.iml" filepath="$PROJECT_DIR$/lektion_46/code/comparing_objects_1/comparing_objects_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_46/code/comparing_objects_2/comparing_objects_2.iml" filepath="$PROJECT_DIR$/lektion_46/code/comparing_objects_2/comparing_objects_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_53/code/consultation_53/consultation_53.iml" filepath="$PROJECT_DIR$/lektion_53/code/consultation_53/consultation_53.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_39/code/dancer/dancer.iml" filepath="$PROJECT_DIR$/lektion_39/code/dancer/dancer.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_52/code/data_time/data_time.iml" filepath="$PROJECT_DIR$/lektion_52/code/data_time/data_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_37/code/employee_salary/employee_salary.iml" filepath="$PROJECT_DIR$/lektion_37/code/employee_salary/employee_salary.iml" />
@@ -42,11 +44,13 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_31/code/hausaufgaben31/hausaufgaben31.iml" filepath="$PROJECT_DIR$/lektion_31/code/hausaufgaben31/hausaufgaben31.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_32/code/hausaufgaben32/hausaufgaben32.iml" filepath="$PROJECT_DIR$/lektion_32/code/hausaufgaben32/hausaufgaben32.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_34/code/hausaufgaben34/hausaufgaben34.iml" filepath="$PROJECT_DIR$/lektion_34/code/hausaufgaben34/hausaufgaben34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_23_2/hausaufgaben_1.iml" filepath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_23_2/hausaufgaben_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_13/hausaufgaben_13.iml" filepath="$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_13/hausaufgaben_13.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_17/code/hausaufgaben_17/hausaufgaben_17.iml" filepath="$PROJECT_DIR$/lektion_17/code/hausaufgaben_17/hausaufgaben_17.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_18/code/hausaufgaben_18/hausaufgaben_18.iml" filepath="$PROJECT_DIR$/lektion_18/code/hausaufgaben_18/hausaufgaben_18.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_19/code/hausaufgaben_19/hausaufgaben_19.iml" filepath="$PROJECT_DIR$/lektion_19/code/hausaufgaben_19/hausaufgaben_19.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_1_bis_15/hausaufgaben_1_bis_15.iml" filepath="$PROJECT_DIR$/lektion_1_bis_15/code/hausaufgaben_1_bis_15/hausaufgaben_1_bis_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/hausaufgaben_2.iml" filepath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/hausaufgaben_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_20/code/hausaufgaben_20/hausaufgaben_20.iml" filepath="$PROJECT_DIR$/lektion_20/code/hausaufgaben_20/hausaufgaben_20.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_20_2/code/hausaufgaben_20_2/hausaufgaben_20_2.iml" filepath="$PROJECT_DIR$/lektion_20_2/code/hausaufgaben_20_2/hausaufgaben_20_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_21/code/hausaufgaben_21/hausaufgaben_21.iml" filepath="$PROJECT_DIR$/lektion_21/code/hausaufgaben_21/hausaufgaben_21.iml" />
@@ -75,8 +79,10 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_50/code/hausaufgaben_50/hausaufgaben_50.iml" filepath="$PROJECT_DIR$/lektion_50/code/hausaufgaben_50/hausaufgaben_50.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_51/code/hausaufgaben_51/hausaufgaben_51.iml" filepath="$PROJECT_DIR$/lektion_51/code/hausaufgaben_51/hausaufgaben_51.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_52/code/hausaufgaben_52/hausaufgaben_52.iml" filepath="$PROJECT_DIR$/lektion_52/code/hausaufgaben_52/hausaufgaben_52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/hausaufgaben_53.iml" filepath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/hausaufgaben_53.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" filepath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/hausaufgaben_final.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" filepath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_proba/hausaufgaben_proba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_52_evgeny/homework23_1/homework23_1.iml" filepath="$PROJECT_DIR$/lektion_52_evgeny/homework23_1/homework23_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_43/code/homework_internet_shop/homework_internet_shop.iml" filepath="$PROJECT_DIR$/lektion_43/code/homework_internet_shop/homework_internet_shop.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_36/code/homework_l35/homework_l35.iml" filepath="$PROJECT_DIR$/lektion_36/code/homework_l35/homework_l35.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_40/code/human/human.iml" filepath="$PROJECT_DIR$/lektion_40/code/human/human.iml" />
