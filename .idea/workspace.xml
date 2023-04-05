@@ -5,26 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/hausaufgaben_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/src/MapExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/src/MapExercisesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_23_2/hausaufgaben_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_23_2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/homework23_1/homework23_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/homework23_1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/homework23_1/src/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/homework23_1/src/custom_exceptions/InvalidAgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_52_evgeny/homework23_1/src/custom_exceptions/Voter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_53/code/algorithms/algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_53/code/algorithms/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_53/code/consultation_53/consultation_53.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/hausaufgaben_53.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/src/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_54/code/binary_search_54/binary_search_54.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_54/code/binary_search_54/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_54/code/consultation_54/consultation_54.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_54/code/consultation_54/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_54/code/consultation_54/src/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_54/code/hausaufgaben_54/hausaufgaben_54.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_54/code/hausaufgaben_54/src/FibonacciExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_54/code/hausaufgaben_54/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_28/code/hausaufgaben_final/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_18/Fibonacci/code/proba_fibonaci/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_18/Fibonacci/code/proba_fibonaci/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/src/MapExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/src/MapExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/hausaufgaben_53.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/hausaufgaben_53.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -98,6 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="consultation_54" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest.findMinOrMax_test_emptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="homework23_1" />
       <option name="PACKAGE_NAME" value="" />
@@ -118,16 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathMethodsTest.testIsEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="math_methods" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathMethodsTest" />
-      <option name="METHOD_NAME" value="testIsEven" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MathMethodsTest.testIsPrime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="math_methods" />
       <option name="PACKAGE_NAME" value="" />
@@ -140,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MainTest.findMinOrMax_test_emptyList" />
         <item itemvalue="JUnit.MathMethodsTest.isEven" />
         <item itemvalue="JUnit.MathMethodsTest.testIsPrime" />
-        <item itemvalue="JUnit.MathMethodsTest.testIsEven" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680466434130</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="lesson update">
+      <created>1680635620476</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680635620476</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -4,6 +4,7 @@ import java.util.Map;
 
 public class MapExercises {
     // MapExercises
+
 /*
 1) Дан массив строк (не пустой). Написать метод, возвращающий карту Map<String, Boolean> где вся строка
 является ключем, а значением является true, если строка в массиве встречается больше одного раза и false,

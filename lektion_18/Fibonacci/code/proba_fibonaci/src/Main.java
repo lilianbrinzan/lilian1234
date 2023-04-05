@@ -14,7 +14,7 @@ public class Main {
             num2 = sumOfPrevTwo;
         }
         System.out.println(" ");
-        System.out.println("Finisch !!! ");
+
 
 
 
@@ -29,7 +29,7 @@ public class Main {
 
         }
         System.out.println(" ");
-        System.out.println("Finisch !!! ");
+
     }
 
 }
