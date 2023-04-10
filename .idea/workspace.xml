@@ -5,23 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/src/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_54/code/binary_search_54/binary_search_54.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_54/code/binary_search_54/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_54/code/consultation_54/consultation_54.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_54/code/consultation_54/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_54/code/consultation_54/src/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_54/code/hausaufgaben_54/hausaufgaben_54.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_54/code/hausaufgaben_54/src/FibonacciExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_54/code/hausaufgaben_54/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_02/lesson_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_03/lesson_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_04/lesson_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_04/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_05/lesson_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_05/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_06/lesson_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_06/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_07/lesson_07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_07/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_08/lesson_08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_08/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_08/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_09/lesson_09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_09/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_10/lesson_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_11/lesson_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_12/lesson_12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_13/lesson_13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_14/lesson_14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/factorial/factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/factorial/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/prime_number/prime_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/prime_number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/string_to_letters/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/string_to_letters/string_to_letters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_55/code/consultation_55/consultation_55.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_55/code/consultation_55/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_55/code/fibonacci_55/fibonacci_55.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_55/code/fibonacci_55/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_55/code/hausaufgaben_55/hausaufgaben_55.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_55/code/hausaufgaben_55/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/hausaufgaben_56.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_18/Fibonacci/code/proba_fibonaci/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_18/Fibonacci/code/proba_fibonaci/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/src/MapExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_52_evgeny/hausaufgaben_2/src/MapExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_53/code/consultation_53/src/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/hausaufgaben_53.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/hausaufgaben_53.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_53/code/hausaufgaben_53/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680635620476</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="lesson update">
+      <created>1680728476302</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1680728476302</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
