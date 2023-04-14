@@ -5,49 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_02/lesson_02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_02/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_03/lesson_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_04/lesson_04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_04/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_05/lesson_05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_05/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_06/lesson_06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_06/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_07/lesson_07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_07/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_08/lesson_08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_08/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_08/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_09/lesson_09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_09/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_10/lesson_10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_10/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_11/lesson_11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_11/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_12/lesson_12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_12/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_13/lesson_13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_13/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_14/lesson_14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_14/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/factorial/factorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/factorial/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/prime_number/prime_number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/prime_number/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/string_to_letters/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_1_bis_15/code/lesson_15/example/string_to_letters/string_to_letters.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_55/code/consultation_55/consultation_55.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_55/code/consultation_55/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_55/code/fibonacci_55/fibonacci_55.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_55/code/fibonacci_55/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_55/code/hausaufgaben_55/hausaufgaben_55.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_55/code/hausaufgaben_55/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/hausaufgaben_56.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/inputFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/inputList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/outputFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_57/code/bubblesort/bubblesort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_57/code/bubblesort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_57/code/consultation_57/consultation_57.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_57/code/consultation_57/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_57/code/hausaufgaben_57/hausaufgaben_57.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_57/code/hausaufgaben_57/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_57/code/stringbuilders/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_57/code/stringbuilders/stringbuilders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/consultation_58/consultation_58.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/consultation_58/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/hausaufgaben_58.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Checkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/StringConcate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/MyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/MyValueParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/TestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/stringbuilder_demo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/stringbuilder_demo/stringbuilder_demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +46,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -113,10 +102,31 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="hausaufgaben_41" />
+      <module name="hausaufgaben_56" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lambdas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="stringbuilder_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="hausaufgaben_58" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,43 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.findMinOrMax_test_emptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="homework23_1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="findMinOrMax_test_emptyList" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathMethodsTest.isEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="math_methods" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathMethodsTest" />
-      <option name="METHOD_NAME" value="isEven" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathMethodsTest.testIsPrime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="math_methods" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathMethodsTest" />
-      <option name="METHOD_NAME" value="testIsPrime" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.MainTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MainTest.findMinOrMax_test_emptyList" />
-        <item itemvalue="JUnit.MathMethodsTest.isEven" />
-        <item itemvalue="JUnit.MathMethodsTest.testIsPrime" />
       </list>
     </recent_temporary>
   </component>
