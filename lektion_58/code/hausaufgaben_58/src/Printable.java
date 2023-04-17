@@ -1,3 +1,12 @@
 public interface Printable {
-    String print ( String s);
+    void print (String s);
+
+    // Consumer
+
+    /**
+     * public interface Consumer < T > {
+     *     void accept ( T ob );
+     * }
+     */
+
 }

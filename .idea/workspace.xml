@@ -5,38 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9630e17d-248a-4b25-a147-bd38b8adf39c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/inputFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/inputList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/outputFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_57/code/bubblesort/bubblesort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_57/code/bubblesort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_57/code/consultation_57/consultation_57.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_57/code/consultation_57/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_57/code/hausaufgaben_57/hausaufgaben_57.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_57/code/hausaufgaben_57/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_57/code/stringbuilders/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_57/code/stringbuilders/stringbuilders.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/consultation_58/consultation_58.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/consultation_58/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/hausaufgaben_58.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Checkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/StringConcate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/lambdas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/MyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/MyValueParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/lambdas/src/TestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/stringbuilder_demo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lektion_58/code/stringbuilder_demo/stringbuilder_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Producable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Transformable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/hausaufgaben_59/hausaufgaben_59.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/hausaufgaben_59/src/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/hausaufgaben_59/src/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/hausaufgaben_59/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/hausaufgaben_59/src/Predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/hausaufgaben_59/src/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/hausaufgaben_59/src/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/main58/main58.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/main58/src/Checkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/main58/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/main58/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/main58/src/PersonCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/main58/src/SomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/main58/src/TestMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/predefined_functional_interfaces/predefined_functional_interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_59/code/predefined_functional_interfaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_60/code/hausaufgaben_60/hausaufgaben_60.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lektion_60/code/hausaufgaben_60/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_56/code/hausaufgaben_56/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Checkable.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Checkable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/Printable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/StringConcate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lektion_58/code/hausaufgaben_58/src/StringConcate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,14 +96,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="hausaufgaben_56" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="lambdas" />
@@ -131,22 +118,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="consultation_54" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="main58" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="predefined_functional_interfaces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="JUnit.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680728476302</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="lesson update">
+      <created>1681454557055</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1681454557055</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

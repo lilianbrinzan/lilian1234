@@ -14,20 +14,36 @@ public class Main {
          */
 
         //  1. сложить строки a и  b
-        StringConcate stringConcate = (a,b) -> a.concat(b);
-        System.out.println( stringConcate.concat("Chec", "kable") );
-
+        StringConcate stringConcate = (a,b) -> Integer.toString(a) + b;
+        System.out.println("concate strings");
+        System.out.println( stringConcate.concat(10, 24) );
 
         //  2. есть строка, если ее длина равна 3 вернуть true  иначе  false
-        Checkable checkable = (a) -> ((a.length() == 3) ? true : false);
-        System.out.println(checkable.check("Hallo"));
-        System.out.println(checkable.check("abc"));
+        Checkable checkable = s -> s.length() == 3;
+        System.out.println("check if length 3");
+        System.out.println(checkable.check("abs"));
+        System.out.println(checkable.check("abcd"));
+
+        //  3. eсть строка string распечатать ее в виде !s!
+        Printable printable = s -> System.out.println( "!" + s + "!");
+        System.out.println( "printig !s!");
+        printable.print("abc");
 
 
-        //  3. eсть строка string распечатать ее в виде !string!
-        Printable printable = (a) -> "!" + a + "!";
-        System.out.println(printable.print("string"));
+        //написать лямбда выражение такое, что если длина строки = 4,
+        // то вернуть четыре звездочки иначе вернуть
+        // строку без изменений
+        Transformable transformable = s -> s.length() == 4 ? s = "****" : s;
+        System.out.println( "Transformable");
+        System.out.println( transformable.modify("ab"));
+        System.out.println( transformable.modify("abcd"));
 
+        // написать лямбда выражение такое, что будет печататься
+        // "Hello World"
+        Producable producable = () -> "Hello World";
+        System.out.println("Producable");
+        System.out.println(producable.produce());
 
     }
+
 }
