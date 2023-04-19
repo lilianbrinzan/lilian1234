@@ -8,6 +8,14 @@ public class Main {
         public interface Function<T,R>{
          R apply(T ob )
         }
+   NEW
+     1a. BiFunction<T,U,R> - это метод, принимающий обьекты типа T, U  и преобразующий их в обьект типа R
+        public interface BiFunction<T,U,R>{
+        R apply(T ob, U ob)
+        }
+   NEW
+
+
     2.Predicate<T> -проверяет условие. Если условие выполняется возвращает true  иначе false
        public interface Predicate<T>{
          boolean test( T ob)
