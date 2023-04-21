@@ -28,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_46/code/comparing_objects_0/comparing_objects_0.iml" filepath="$PROJECT_DIR$/lektion_46/code/comparing_objects_0/comparing_objects_0.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_46/code/comparing_objects_1/comparing_objects_1.iml" filepath="$PROJECT_DIR$/lektion_46/code/comparing_objects_1/comparing_objects_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_46/code/comparing_objects_2/comparing_objects_2.iml" filepath="$PROJECT_DIR$/lektion_46/code/comparing_objects_2/comparing_objects_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_63/code/consultat_multithreading/consultat_multithreading.iml" filepath="$PROJECT_DIR$/lektion_63/code/consultat_multithreading/consultat_multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_63/code/consultat_multithreading_ex2/consultat_multithreading_ex2.iml" filepath="$PROJECT_DIR$/lektion_63/code/consultat_multithreading_ex2/consultat_multithreading_ex2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_53/code/consultation_53/consultation_53.iml" filepath="$PROJECT_DIR$/lektion_53/code/consultation_53/consultation_53.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_54/code/consultation_54/consultation_54.iml" filepath="$PROJECT_DIR$/lektion_54/code/consultation_54/consultation_54.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_55/code/consultation_55/consultation_55.iml" filepath="$PROJECT_DIR$/lektion_55/code/consultation_55/consultation_55.iml" />
@@ -35,6 +37,8 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_58/code/consultation_58/consultation_58.iml" filepath="$PROJECT_DIR$/lektion_58/code/consultation_58/consultation_58.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_61/code/consultation_61/consultation_61.iml" filepath="$PROJECT_DIR$/lektion_61/code/consultation_61/consultation_61.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_62/code/consultation_62/consultation_62.iml" filepath="$PROJECT_DIR$/lektion_62/code/consultation_62/consultation_62.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_63/code/consultation_63/consultation_63.iml" filepath="$PROJECT_DIR$/lektion_63/code/consultation_63/consultation_63.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_63/code/consultation_63_IBAN/consultation_63_IBAN.iml" filepath="$PROJECT_DIR$/lektion_63/code/consultation_63_IBAN/consultation_63_IBAN.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_39/code/dancer/dancer.iml" filepath="$PROJECT_DIR$/lektion_39/code/dancer/dancer.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_52/code/data_time/data_time.iml" filepath="$PROJECT_DIR$/lektion_52/code/data_time/data_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_37/code/employee_salary/employee_salary.iml" filepath="$PROJECT_DIR$/lektion_37/code/employee_salary/employee_salary.iml" />
@@ -134,6 +138,7 @@
       <module fileurl="file://$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/math_methods.iml" filepath="$PROJECT_DIR$/lektion_49/code/unit_testing/math_methods/math_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_21/code/minmax/minmax.iml" filepath="$PROJECT_DIR$/lektion_21/code/minmax/minmax.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_42/code/money/money.iml" filepath="$PROJECT_DIR$/lektion_42/code/money/money.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion_63/code/multithreading_1/multithreading_1.iml" filepath="$PROJECT_DIR$/lektion_63/code/multithreading_1/multithreading_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_45/code/my_example/my_example.iml" filepath="$PROJECT_DIR$/lektion_45/code/my_example/my_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_16/code/negative_input_break/negative_input_break.iml" filepath="$PROJECT_DIR$/lektion_16/code/negative_input_break/negative_input_break.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion_21/code/nod/nod.iml" filepath="$PROJECT_DIR$/lektion_21/code/nod/nod.iml" />
